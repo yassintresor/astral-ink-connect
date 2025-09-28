@@ -111,8 +111,8 @@ const ContactSection = () => {
     {
       icon: Phone,
       title: 'Phone',
-      info: '+250 XXX XXX XXX',
-      link: 'tel:+250XXXXXXX'
+      info: '+250 798 200 559',
+      link: 'tel:+250798200559'
     },
     {
       icon: MapPin,
